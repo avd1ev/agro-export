@@ -1,5 +1,5 @@
-Get info about ukrainian export agro companies from minagro website.
+Get info about ukrainian agro-export companies from minagro website.
 
-Tools: python, pandas, tabula-py, requests, BeautifulSoup.
+Tools: pandas, tabula-py, BeautifulSoup.
 
 Result: clients.xlsx
